@@ -9,7 +9,7 @@
   - Pandas library
 - **Resources:**
   - Materials available in Workshop 1 folder
-  - Recording link shared
+  - Recording link : https://www.facebook.com/share/v/15JDREYpUN/
 
 ## Workshop 2
 - **Topic:** Data Science Journey - Part 2
@@ -17,9 +17,10 @@
   - Data visualization libraries
     - Seaborn
     - Matplotlib
-  - Practical project by Sir Asim
+  - Practical project by Sir Asim Khan
   - Applying theoretical knowledge to real dataset
 - **Resources:**
   - All materials in Workshop 2 folder
+  - Recording link : https://fb.watch/wx1eGIFqW-/
 
 **See you next week, Inshallah!**
