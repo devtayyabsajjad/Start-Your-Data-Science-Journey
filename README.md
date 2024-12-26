@@ -22,5 +22,16 @@
 - **Resources:**
   - All materials in Workshop 2 folder
   - Recording link : https://fb.watch/wx1eGIFqW-/
+    ## Workshop 3
+- **Date:** 22nd December
+- **Topic:** Mastering Data Analysis: From Raw Data to Valuable Insights
+- **Key Discussions:**
+  - Virtual environments
+  - How to Read your Meta data 
+  - Complete END TO END project
+  - Auto EDA Techniques with custom functions nad sweetviz and pandas profilling
+- **Resources:**
+  - Materials available in Workshop 3 folder
+  - Recording link : https://www.facebook.com/share/v/1BPeMFVztF/
 
 **See you next week, Inshallah!**
