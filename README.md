@@ -37,10 +37,10 @@
 - **Date:** 29th December
 - **Topic:** Building a Pre-processing Pipeline for Machine Learning Modeling 
 - **Key Discussions:**
-- Missing Values (Custom Function)
-- Outliers
-- Scalling and Standardisation
-- Encoding
+  - Missing Values (Custom Function)
+  - Outliers
+  - Scalling and Standardisation
+  - Encoding
   
 - **Resources:**
   - Materials available in Workshop 4 folder
