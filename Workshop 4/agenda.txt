@@ -1,0 +1,9 @@
+------Agenda of Todays Workshop-------
+
+1)Recap-
+2)Q/A
+3)missing values
+4)Outliers
+5)Scaling /Standardization
+
+6)Project completion(adding pre processing and model building) [optional]
