@@ -33,8 +33,20 @@
 - **Resources:**
   - Materials available in Workshop 3 folder
   - Recording link : https://www.facebook.com/share/v/1BPeMFVztF/
+  ## Workshop 4
+- **Date:** 29th December
+- **Topic:** Building a Pre-processing Pipeline for Machine Learning Modeling 
+- **Key Discussions:**
+- Missing Values (Custom Function)
+- Outliers
+- Scalling and Standardisation
+- Encoding
+  
+- **Resources:**
+  - Materials available in Workshop 4 folder
+  - Recording link : https://web.facebook.com/share/v/1BRLDjwwH5/
 
-**See you next week, Inshallah!**
+*
 
 
 
