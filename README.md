@@ -1,7 +1,7 @@
 # Start Your Data Science Journey Workshops Resources
 
 ## Workshop 1
-- **Date:** 8th December
+- **Date:** 8th December 
 - **Topic:** Start Your Data Science Journey with EDA
 - **Key Discussions:**
   - Virtual environments
